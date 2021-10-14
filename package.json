@@ -1,0 +1,24 @@
+{
+  "name": "Web502-m4-w3-d2-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franklin-Yao/Web502-m4-w3-d2-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franklin-Yao/Web502-m4-w3-d2-exercise/issues"
+  },
+  "homepage": "https://github.com/Franklin-Yao/Web502-m4-w3-d2-exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.6.0"
+  }
+}
